@@ -3,4 +3,5 @@ This project compares the denoising performance of 8×8 block DCT with soft thre
 
 ## Colab Notebook
 
-![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+(https://drive.google.com/file/d/1x9FERMycOcff26Nedod5gkxWrnVEliZB/view?usp=sharing)
