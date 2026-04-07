@@ -1,5 +1,5 @@
 # 7AAVDH26_001_Final_Coding_Project
-This project compares the denoising performance of 8×8 block DCT with soft thresholding and Gaussian filtering on low-dose brain CT images.
+This project compares the denoising performance of DCT-based frequency domain filtering and Gaussian spatial domain filtering on low-dose brain CT images.
 
 ## Notebook
 This notebook compares DCT-based denoising with Gaussian filtering for CT images.
